@@ -1,0 +1,29 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    text-align: center;
+    
+}
+.headshot{
+    width:25%;
+
+}
+.mid{
+    background-color:white;
+    color:gold;
+    align-items:center;
+    font-size:20px;
+    margin-top:5px;
+    margin-bottom:5px;
+    text-align: center;
+    font-family:shrikhand;
+}
+.aboutme{
+    border:1px solid black;   
+}
+.footer {
+    display:flex;
+    justify-content: space-around;
+}
